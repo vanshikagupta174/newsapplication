@@ -1,4 +1,4 @@
-/*import { Box, makeStyles } from '@material-ui/core';
+import { Box, makeStyles } from '@material-ui/core';
 import { CallMissedSharp } from '@material-ui/icons';
 import Header from './components/Header';
 import Infoheader from './components/Infoheader';
@@ -35,13 +35,13 @@ function App() {
   );
 }
 
-export default App;*/
+export default App;
 
 
 
 
 
-
+/*
 //code for e commerce website
 
 import { Box, makeStyles } from '@material-ui/core';
@@ -79,4 +79,4 @@ function App() {
   );
 }
 
-export default App;
+export default App;*/

@@ -1,4 +1,4 @@
-/*import { AppBar, Toolbar, makeStyles } from "@material-ui/core";
+import { AppBar, Toolbar, makeStyles } from "@material-ui/core";
 import { Menu } from "@material-ui/icons";
 //to handle css makeStyles component is used
 const useStyles = makeStyles({
@@ -28,7 +28,7 @@ const Header = () => {
     )
 }
 
-export default Header;*/
+export default Header;
 
 
 
@@ -36,7 +36,7 @@ export default Header;*/
 
 
 
-
+/*
 //code for header of e commerce website
 import { AppBar, Toolbar, makeStyles } from "@material-ui/core";
 import { Menu } from "@material-ui/icons";
@@ -55,4 +55,4 @@ const Header = () => {
     )
 }
 
-export default Header;
+export default Header;*/
