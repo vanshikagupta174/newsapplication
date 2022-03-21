@@ -3,7 +3,7 @@ import { CallMissedSharp } from '@material-ui/icons';
 import Header from './components/Header';
 import Infoheader from './components/Infoheader';
 import Articles from './components/Articles';
-//App is the main component
+//App is the main component/////
 //components which are imported are always written in self closing tag
 //box component by default ek div tag deta h
 //for header appBar component is used
